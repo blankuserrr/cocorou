@@ -7,6 +7,6 @@ description = "A fast & light hybrid coroutines library"
 readme = "README.md"
 repository = "https://github.com/blankuserrr/cocorou"
 categories = ["coroutines", "stackless", "stackful"]
-license = "APACHE-2.0 OR MIT"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
