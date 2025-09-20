@@ -1,7 +1,7 @@
 [package]
 name = "cocorou"
 version = "0.1.0"
-authors = "Blank User"
+author = "Blank User"
 edition = "2024"
 description = "A fast & light hybrid coroutines library"
 readme = "README.md"
@@ -10,3 +10,7 @@ categories = ["coroutines", "stackless", "stackful"]
 license = "MIT OR Apache-2.0"
 
 [dependencies]
+
+[[example]]
+name = "basic"           # The name of the target.
+path = "examples/lib.rs"    # The source file of the target.
