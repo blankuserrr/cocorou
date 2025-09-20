@@ -1,0 +1,12 @@
+[package]
+name = "cocorou"
+version = "0.1.0"
+authors = "Blank User"
+edition = "2024"
+description = "A fast & light hybrid coroutines library"
+readme = "README.md"
+repository = "https://github.com/blankuserrr/cocorou"
+categories = ["coroutines", "stackless", "stackful"]
+license = "APACHE-2.0 OR MIT"
+
+[dependencies]
